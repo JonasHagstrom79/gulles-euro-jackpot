@@ -1,0 +1,3 @@
+# This file lists all the dependencies for the project.
+# As of the provided snippets and project description, there are no external dependencies mentioned.
+# Therefore, this file is intentionally left blank or could be omitted if no external libraries are used.
